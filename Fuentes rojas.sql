@@ -1,6 +1,6 @@
 --ActoresE
 CREATE OR REPLACE PACKAGE PC_GERENTEDEPROYECTOS AS
-	PROCEDURE add_Fincas(nombre VARCHAR2, especificaciones VARCHAR2);
+    PROCEDURE add_Fincas(nombre VARCHAR2, especificaciones VARCHAR2);
     PROCEDURE mo_Fincas(id_ VARCHAR2, nombre VARCHAR2, especificaciones VARCHAR2);
     FUNCTION co_Fincas(id_ VARCHAR2, nombre VARCHAR2, especificaciones VARCHAR2) RETURN SYS_REFCURSOR;
     PROCEDURE add_trabajador(Tipo_idusu VARCHAR2, numero_idusu VARCHAR2, fechadeingresotrabajar DATE, cargo VARCHAR2, encargadofinca VARCHAR2, estadocivil VARCHAR2, familiares VARCHAR2, polizadeseguridad NUMBER, tipodecontrato VARCHAR2, horastrabajadas INTEGER, salario INTEGER, tiempodedescanso VARCHAR2);
