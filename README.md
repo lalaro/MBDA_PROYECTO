@@ -28,7 +28,7 @@ Para validar de manera óptima y eficaz la solución implementada, es recomendab
 
 ## 2.2 Organización
 
-<img src="AGROAPP.jpg" alt="AGROAPP" width="500"/>
+<img src="AGROAPP.png" alt="AGROAPP" width="500"/>
 La misión de esta organización es utilizar técnicas avanzadas en la producción y control de ganado para lograr ventas elevadas. Al mismo tiempo, se busca proteger el medio ambiente mediante el uso de métodos especializados que reduzcan la emisión de dióxido de carbono (CO2).
 La organización se enfoca en aplicar técnicas innovadoras y tecnología avanzada en todas las etapas de la producción y control de ganado. Esto incluye la selección genética, la nutrición y alimentación animal, el manejo sanitario, la reproducción asistida y otros aspectos clave para maximizar la eficiencia y productividad del ganado.
 El objetivo principal es lograr ventas elevadas, lo cual implica ofrecer un ganado de alta calidad y que cumpla con los estándares de mercado tanto nacional como internacional. Para ello, se implementan prácticas especializadas que permiten mejorar la genética, el rendimiento y la salud del ganado, lo cual se traduce en un producto final de alto valor comercial.
