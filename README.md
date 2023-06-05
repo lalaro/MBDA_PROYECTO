@@ -28,7 +28,7 @@ Para validar de manera óptima y eficaz la solución implementada, es recomendab
 
 ## 2.2 Organización
 
-<img src="maxresdefault.jpg" alt="maxresdefault" width="500"/>
+<img src="AGROAPP.jpg" alt="AGROAPP" width="500"/>
 La misión de esta organización es utilizar técnicas avanzadas en la producción y control de ganado para lograr ventas elevadas. Al mismo tiempo, se busca proteger el medio ambiente mediante el uso de métodos especializados que reduzcan la emisión de dióxido de carbono (CO2).
 La organización se enfoca en aplicar técnicas innovadoras y tecnología avanzada en todas las etapas de la producción y control de ganado. Esto incluye la selección genética, la nutrición y alimentación animal, el manejo sanitario, la reproducción asistida y otros aspectos clave para maximizar la eficiencia y productividad del ganado.
 El objetivo principal es lograr ventas elevadas, lo cual implica ofrecer un ganado de alta calidad y que cumpla con los estándares de mercado tanto nacional como internacional. Para ello, se implementan prácticas especializadas que permiten mejorar la genética, el rendimiento y la salud del ganado, lo cual se traduce en un producto final de alto valor comercial.
@@ -96,7 +96,7 @@ Los entregables del semestre han sido todos y cada uno de los desarrollos que se
 ##### ¿por qué se seleccionaron estas áreas?
 Cada aspecto mencionado anteriormente desempeña un papel clave en el logro de los objetivos del proyecto al optimizar y controlar los diferentes aspectos de la producción ganadera. Al gestionar de manera eficiente la alimentación, movilización, salud, reproducción, personal y características específicas del ganado, se busca maximizar la productividad, minimizar los costos y asegurar un control preciso en la producción de ganado.
 
-> Ingresar al repositorio: https://github.com/lalaro/cnyt_laura
+> Ingresar al repositorio: https://github.com/lalaro/MBDA_PROYECTO
 
 ## Construido con
 https://dillinger.io/
